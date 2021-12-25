@@ -17,4 +17,4 @@ Responsive landing page project
 2. CSS
 3. Javascript
 
-- [Instructions](#instructions)
+
